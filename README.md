@@ -1,3 +1,3 @@
-# Cricket-Store-webpage-based-on-HTML-and-CSS
+# Basic-webpage-based-on-HTML-and-CSS
 
 
